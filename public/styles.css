@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: inherit;
+  text-decoration: none;
+}
